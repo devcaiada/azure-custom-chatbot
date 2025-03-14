@@ -1,0 +1,7 @@
+azure-storage-blob
+azure-ai-formrecognizer
+azure-core
+azure-search-documents
+openai
+python-dotenv
+fpdf
