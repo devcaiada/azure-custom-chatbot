@@ -1,4 +1,4 @@
-# MyChitChat PDF Assistant
+# MyChitChat PDF Assistant <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
 MyChitChat PDF Assistant é um sistema interativo de chat desenvolvido para responder perguntas com base no conteúdo de documentos PDF fornecidos. O projeto utiliza conceitos avançados de inteligência artificial, como IA generativa, embeddings e buscas vetoriais, para interpretar e processar informações de arquivos, oferecendo respostas contextuais fundamentadas.
 
@@ -6,13 +6,13 @@ Este projeto é ideal para estudantes, pesquisadores e profissionais que precisa
 
 ---
 
-## Cenário
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fog.png" alt="Fog" width="25" height="25" /> Cenário 
 
 Imagine que você é um estudante de Engenharia de Software, prestes a escrever seu Trabalho de Conclusão de Curso (TCC). Para facilitar o processo de revisão e conexão entre ideias de diversos artigos científicos, você decide criar um sistema inteligente capaz de interpretar arquivos PDF, organizar as informações e responder de forma contextual.
 
 ---
 
-## Objetivos do Projeto
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" alt="Heart with Arrow" width="25" height="25" /> Objetivos do Projeto
 
 O sistema tem como principais objetivos:
 - ✅ **Carregar arquivos PDF** contendo informações relevantes para estudo ou projeto.
@@ -22,7 +22,7 @@ O sistema tem como principais objetivos:
 
 ---
 
-## Estrutura do Projeto
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ferris%20Wheel.png" alt="Ferris Wheel" width="30" height="30" /> Estrutura do Projeto
 
 - **`frontend/`**: Interface do usuário para interação com o sistema.
   - `index.html`: Estrutura da interface de chat.
@@ -39,7 +39,7 @@ O sistema tem como principais objetivos:
 
 ---
 
-## Tecnologias Utilizadas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tecnologias Utilizadas
 
 ### **Frontend**
 - HTML, CSS e TypeScript para construção da interface.
@@ -56,9 +56,7 @@ O sistema tem como principais objetivos:
 
 ---
 
-## Como Configurar
-
-### Pré-requisitos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Nine O’Clock.png" alt="Nine O’Clock" width="25" height="25" /> Configuração
 
 Certifique-se de possuir:
 - **Node.js** e **npm** instalados (para o TypeScript).
@@ -67,7 +65,7 @@ Certifique-se de possuir:
 
 ---
 
-## Funcionalidades Futuras 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Funcionalidades Futuras 
 Planejamos expandir este projeto com as seguintes funcionalidades:
 
 - Suporte a múltiplos formatos de arquivo: Além de PDFs, expandir para DOCX, TXT, entre outros.
@@ -78,7 +76,7 @@ Planejamos expandir este projeto com as seguintes funcionalidades:
 
 - Persistência de sessões: Salvar logs e interações no Azure Blob Storage.
 
-## Contribuição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+## Contribuição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />
 
 Sinta-se à vontade para contribuir com este repositório. Abra uma issue ou envie um pull request com suas sugestões e melhorias.
 
